@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GitToolBoxProjectSettings">
+    <option name="autoFetch" value="false" />
+    <option name="autoFetchEnabledOverride">
+      <BoolValueOverride>
+        <option name="enabled" value="true" />
+      </BoolValueOverride>
+    </option>
+    <option name="commitDialogBranchCompletionOverride">
+      <BoolValueOverride>
+        <option name="enabled" value="true" />
+      </BoolValueOverride>
+    </option>
+    <option name="commitDialogCompletion" value="false" />
+    <option name="commitMessageIssueKeyValidationOverride">
+      <BoolValueOverride>
+        <option name="enabled" value="true" />
+      </BoolValueOverride>
+    </option>
+    <option name="commitMessageValidationEnabledOverride">
+      <BoolValueOverride>
+        <option name="enabled" value="true" />
+      </BoolValueOverride>
+    </option>
+    <option name="completionConfigs">
+      <list />
+    </option>
+    <option name="completionConfigsOverride">
+      <CommitCompletionConfigListOverride>
+        <option name="enabled" value="true" />
+      </CommitCompletionConfigListOverride>
+    </option>
+  </component>
+</project>
